@@ -1,47 +1,47 @@
 #Biero:
 
-#how to use:
+how to use:
 
-#download zip and unpack
+download zip and unpack
 
-#start bierod (doubleclick)
+start bierod (doubleclick)
 
-#start simplewallet (doubleclick)
+start simplewallet (doubleclick)
 
-#g generate or o open wallet
+g generate or o open wallet
 
-#give name (any)
+give name (any)
 
-#password
+password
 
-#save
+save
 
-#exit
+exit
 
-#copy paste wallet address in miner.bat (replace youraddress)
+copy paste wallet address in miner.bat (replace youraddress)
 
-#miner.bat:
+miner.bat:
 
-#miner --address youraddress
+miner --address youraddress
 
-#save
+save
 
-#start miner.bat (doubleclick)
+start miner.bat (doubleclick)
 
-#Happy mining!
+Happy mining!
 
-#start wallet
+start wallet
 
-#balance
+balance
 
-#save
+save
 
-#exit
+exit
 
-#transfer coins from wallet:
+transfer coins from wallet:
 
-#transfer address amount
+transfer address amount
 
-#Good luck!
+Good luck!
 
-#be patient cloning manual is coming!
+be patient cloning manual is coming!
